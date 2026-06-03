@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.SuiviSportSimple" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple80</item>
+        <item name="colorOnPrimary">@color/purple40</item>
+        <item name="colorPrimaryContainer">@color/purple40</item>
+        <item name="colorOnPrimaryContainer">@color/purple80</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/purpleGrey80</item>
+        <item name="colorOnSecondary">@color/purpleGrey40</item>
+        <item name="colorSecondaryContainer">@color/purpleGrey40</item>
+        <item name="colorOnSecondaryContainer">@color/purpleGrey80</item>
+
+        <!-- Tertiary brand color. -->
+        <item name="colorTertiary">@color/pink80</item>
+        <item name="colorOnTertiary">@color/pink40</item>
+        <item name="colorTertiaryContainer">@color/pink40</item>
+        <item name="colorOnTertiaryContainer">@color/pink80</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Suivi Sport Simple</string>
+    <string name="main_title">Calendrier</string>
+    <string name="dashboard_title">Statistiques</string>
+    <string name="activities_label">Activités</string>
+    <string name="note_label">Note</string>
+    <string name="save_button">Enregistrer</string>
+    <string name="stats_no_data">Aucune donnée disponible</string>
+</resources>
