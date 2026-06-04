@@ -3,8 +3,10 @@
     <color name="purple40">#6650a4</color>
     <color name="purpleGrey40">#625b71</color>
     <color name="pink40">#7d5260</color>
-
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
     <color name="purple80">#d0bcff</color>
     <color name="purpleGrey80">#ccc2dc</color>
     <color name="pink80">#e8bdbd</color>
+    
 </resources>
