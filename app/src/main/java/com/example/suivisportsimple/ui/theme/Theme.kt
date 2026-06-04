@@ -14,15 +14,15 @@ import androidx.compose.ui.graphics.Color
  */
 private val LightColors = lightColorScheme(
     primary = Purple40,
-    onPrimary = Color.White,
+    onPrimary = White,
     primaryContainer = Purple80,
     onPrimaryContainer = Purple40,
     secondary = PurpleGrey40,
-    onSecondary = Color.White,
+    onSecondary = White,
     secondaryContainer = PurpleGrey80,
     onSecondaryContainer = PurpleGrey40,
     tertiary = Pink40,
-    onTertiary = Color.White,
+    onTertiary = White,
     tertiaryContainer = Pink80,
     onTertiaryContainer = Pink40,
 )
